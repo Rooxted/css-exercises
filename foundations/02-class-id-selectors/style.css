@@ -1,0 +1,21 @@
+.odd {
+    background-color:rgb(207, 96, 144);
+    font-family:verdana, "deJavu sands","sans-serif";
+    font-size: 18px;
+    font-weight: bold;
+}
+#first{
+    color:rgb(33, 33, 240);
+    font-size: 36px;
+
+}
+#second {
+    
+    font-weight: bold;
+    background-color:rgb(79, 226, 79);
+    color: black;
+
+}
+.adjust-fontsize{
+    font-size: 24px;
+}
